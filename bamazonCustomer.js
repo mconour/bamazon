@@ -12,7 +12,7 @@ var connection = mysql.createConnection({
   user: "root",
 
   // Your password
-  password: "",
+  password: "YtvVP4QY6MkFwx4",
   database: "bamazon"
 });
 
@@ -34,7 +34,7 @@ var display = function() {
       colWidths: [12, 50, 8],
       colAligns: ["center", "left", "right"],
       style: {
-        head: ["aqua"],
+        head: ["teal"],
         compact: true
         // 'padding-right' : 1,
       }
