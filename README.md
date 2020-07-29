@@ -1,6 +1,10 @@
-# Bamazon
+# Bamazon Application
 
-# Challenge #1: Customer View (Minimum Requirement)
+```
+Languages: JavaScript
+Frameworks & Libraries: Node.js, BigNumber.js, Chalk, and more
+Other: MySQL
+```
 
 
 Running this application will first display all of the items available for sale, including the ids, names and prices of products for sale.
@@ -13,7 +17,7 @@ The app will then prompt users with two messages.
 
 Once the user has placed the order, the application checks if the store has enough of the product to meet the user's request.
 
- * If not, the app logs the phrase like `insufficient quantity`, and then prevents the order from going through.
+ * If not, the app logs the phrase `insufficient quantity`, and then prevents the order from going through.
 
 
 However, if the Bamazon store does have enough of the product, the customer's order is fulfilled:
