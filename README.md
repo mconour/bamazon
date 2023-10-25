@@ -45,10 +45,6 @@ Here's an example of how the application works:
 - [Inquirer](https://www.npmjs.com/package/inquirer)
 - [cli-table2](https://www.npmjs.com/package/cli-table2)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 
 - The Bamazon project is inspired by online shopping experiences.
