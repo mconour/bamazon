@@ -36,8 +36,6 @@ Here's an example of how the application works:
 3. If the selected quantity is available, the application will calculate the total cost and update the inventory.
 4. Your order will be processed, and you'll receive a confirmation message.
 
-<img src="screencast-bamazon.gif" />
-
 ## Built With
 
 - [Node.js](https://nodejs.org/)
